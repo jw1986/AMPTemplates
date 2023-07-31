@@ -1,6 +1,6 @@
 [
     {
-        "UpdateStageName": "",
+        "UpdateStageName": "Updating Wayward",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "379210",
